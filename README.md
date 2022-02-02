@@ -1,9 +1,9 @@
 # ascii-bug
-Step 1: Clone the Project. 
-Step 2: cd into ascii-bug folder. 
-Step 3: run command: docker-compose up -d. 
-Step 4: visit localhost: http://localhost:7007/. 
-Step 5: uplad a bug file/ascii art. 
-Step 6 upload a landscape/scii art with multiple bug.   
-Step 7 submit the files. 
+Step 1: Clone the Project.<br/>
+Step 2: cd into ascii-bug folder.<br/> 
+Step 3: Run command: docker-compose up -d.<br/>
+Step 4: Visit: localhost: http://localhost:7007/.<br/> 
+Step 5: Uplad a bug file/ascii art.<br/>
+Step 6: Upload a landscape/ascii art with multiple bug.<br/>
+Step 7: Submit the files.<br/>
 Final see how many bugs is found in a landscape. 

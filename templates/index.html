@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+  <p>
+    Welcome At BUG Check</p>
+    <form action = "/display" method = "POST" enctype = "multipart/form-data">
+      <label for="file_bug">Upload a file with a BUG</label><br /><br />
+        <input type = "file" name = "file_bug" required /><br /><br />
+      <label for="file_bug">Upload a file with a LANDSCAPE</label><br /><br />
+        <input type = "file" name = "file_analyse" required /><br /><br />
+      <input type = "submit"/>
+      <input type = "reset"/>
+ </form>  
+{% endblock %}
